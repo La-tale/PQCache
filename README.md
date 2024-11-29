@@ -19,6 +19,15 @@ Extensive experiments show that PQCache achieves both effectiveness and efficien
 
 ![PQCache](./pqcache.png)
 
+## Installation beyond torch, transformers, flash_attn, ... etc.
+rouge_score
+matplotlib
+datasets
+kmeans_gpu
+wandb
+scikit-learn
+loguru
+
 ## Scripts
 
 1. First compile lfucache for GPU cache:
